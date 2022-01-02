@@ -1,0 +1,64 @@
+header {
+    background-color: black; border: 20px;
+    border-radius: 1%;
+    
+}
+.student {
+    color: white;
+    padding: 20px;
+    
+}
+
+.text {
+    margin: 20;
+    padding: 40;
+}
+
+main img {
+	position:absolute;
+	margin-left:1100px;
+	margin-top: 10px;
+    border-radius: 100%;
+    border-style: solid;
+    border-width: 3px;
+}
+
+ul {
+    font-size: 25px;
+}
+
+.name {
+    margin-left: 38px;
+}
+.me {
+    
+    margin-left: 38px
+}
+.text{
+    font-size: 25px;
+    margin-left: 58px;
+}
+.stori {
+    margin-left: 38px;
+    font-size: 23px;
+}
+footer{
+    background-color: gray;
+    border-style: solid;
+    border-width: 3px;
+}
+.footer-text {
+    font-size: 20px;
+    padding-left: 10px;
+
+    
+}
+footer img {
+    border: 20px;
+    border-radius: 1%;  
+}
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
